@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Alexandre Alves 👋
 
 Desenvolvedor Frontend apaixonado por criar interfaces modernas, acessíveis e com atenção aos detalhes. Transformo ideias em experiências digitais que funcionam — e que as pessoas gostam de usar.
 
@@ -9,7 +9,7 @@ Desenvolvedor Frontend apaixonado por criar interfaces modernas, acessíveis e c
 - 💼 Desenvolvedor Frontend
 - 🌱 Sempre aprendendo e evoluindo
 - 🎯 Foco em código limpo, boas práticas e experiência do usuário
-- 📍 Brasil
+- 📍 Recife - PE
 
 ---
 
@@ -26,10 +26,10 @@ Desenvolvedor Frontend apaixonado por criar interfaces modernas, acessíveis e c
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/alexandre-alves-7b2047279/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/seu-usuario" target="_blank">
+  <a href="https://www.instagram.com/_jrzin99/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
